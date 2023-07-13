@@ -15,6 +15,8 @@ Este é meu portfólio pessoal de data science onde eu coloco todos os meus proj
 
 ## Projetos:
 
+* **Analisando os Dados do Airbnb Sydney:** https://github.com/joaomr7/portfolio-data-science/blob/main/Analisando_os_Dados_do_Airbnb_Sidney_Austr%C3%A1lia.ipynb
+
 ---
 
 
