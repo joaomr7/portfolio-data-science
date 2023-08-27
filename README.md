@@ -17,6 +17,8 @@ Este é meu portfólio pessoal de data science onde eu coloco todos os meus proj
 
 * **Analisando os Dados do Airbnb Sydney:** https://github.com/joaomr7/portfolio-data-science/blob/main/Analisando_os_Dados_do_Airbnb_Sidney_Austr%C3%A1lia.ipynb
 
+* **Panaroma Covid 19:** https://github.com/joaomr7/portfolio-data-science/blob/main/Panaroma_Covid_19.ipynb
+
 ---
 
 
